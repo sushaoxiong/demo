@@ -8,7 +8,7 @@ public class Thread {
     }
 
     private static void fun(int a) {
-        System.out.println("aaa");
+        System.out.println("a");
     }
 
 
